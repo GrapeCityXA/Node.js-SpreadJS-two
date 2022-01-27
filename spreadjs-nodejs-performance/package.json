@@ -1,0 +1,18 @@
+{
+  "name": "spreadjs-nodejs-performance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@grapecity/spread-excelio": "^13.2.3",
+    "@grapecity/spread-sheets": "^13.2.3",
+    "FileReader": "^0.10.2",
+    "bufferjs": "1.0.0",
+    "mock-browser": "^0.92.14"
+  }
+}
